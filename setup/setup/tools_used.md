@@ -2,7 +2,7 @@
 
 This lab uses industry-standard tools to simulate real-world offline password attack and defense scenarios.
 
----
+--- 
 
 ## Offensive Tooling
 
