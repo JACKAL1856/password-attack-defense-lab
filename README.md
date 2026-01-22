@@ -28,7 +28,7 @@ Generated password hashes using:
 - bcrypt
 
 📷 Example:
-![MD5 Hash](screenshots/1_clean_hashes.png)
+![MD5 Hash](01_clean_hashes.png)
 
 ---
 
