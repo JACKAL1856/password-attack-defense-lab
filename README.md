@@ -60,7 +60,7 @@ Combined dictionary + mask attacks:
 - bcrypt resisted effectively
 
 📷 Example:
-![SHA256 Hybrid](screenshots/21_sha256_hybrid_attack_results.png)
+![SHA256 Hybrid](screenshots/21sha256_hybrid_attack_results.png)
 
 ---
 
