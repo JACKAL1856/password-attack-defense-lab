@@ -41,7 +41,7 @@ Simulated post-breach hash exfiltration between systems.
 Used Hashcat rule sets to amplify dictionary attacks.
 
 📷 Example:
-![Rule Attack](screenshots/10_rule_attack_running.png)
+![Rule Attack](screenshots/10_bcrypt_resistance.png)
 
 ---
 
