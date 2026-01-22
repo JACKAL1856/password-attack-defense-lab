@@ -35,6 +35,9 @@ Generated password hashes using:
 ### Phase 2 – Hash Transfer Simulation
 Simulated post-breach hash exfiltration between systems.
 
+📷 Example:
+![Post_Breach](screenshots/5_scp_transfer.png)
+
 ---
 
 ### Phase 3 – Rule-Based Attacks
